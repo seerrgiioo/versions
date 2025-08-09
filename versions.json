@@ -1,7 +1,7 @@
 {
   "qs-inventory": {
     "version": "1.2.3",
-    "backgroundImage": "https://example.com/images/qs-inventory-bg.png"
+    "backgroundImage": "https://raw.githubusercontent.com/seerrgiioo/versions/refs/heads/main/inventory.jpg"
   },
   "qs-hud": {
     "version": "2.0.1",
