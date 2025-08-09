@@ -1,7 +1,22 @@
 {
-    "qs-inventory": "1.2.3",
-    "qs-hud": "2.0.1",
-    "qs-banking": "1.1.0",
-    "qs-vehicles": "3.0.0",
-    "qs-admin": "1.0.2"
+  "qs-inventory": {
+    "version": "1.2.3",
+    "backgroundImage": "https://example.com/images/qs-inventory-bg.png"
+  },
+  "qs-hud": {
+    "version": "2.0.1",
+    "backgroundImage": "https://example.com/images/qs-hud-bg.png"
+  },
+  "qs-banking": {
+    "version": "1.1.0",
+    "backgroundImage": "https://example.com/images/qs-banking-bg.png"
+  },
+  "qs-vehicles": {
+    "version": "3.0.0",
+    "backgroundImage": "https://example.com/images/qs-vehicles-bg.png"
+  },
+  "qs-admin": {
+    "version": "1.0.2",
+    "backgroundImage": "https://example.com/images/qs-admin-bg.png"
+  }
 }
